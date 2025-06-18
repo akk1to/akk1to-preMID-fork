@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.13",
+  "apiVersion": 1,
+  "author": {
+    "id": "727497287777124414",
+    "name": "akk1to.dev"
+  },
+  "service": "AsakaCloud - #1 Minecraft Hosing Provider in Vietnam",
+  "description": {
+    "vi": "Asaka Cloud tự hào là dịch vụ cho thuê máy chủ Minecraft hàng đầu tại Việt Nam, cung cấp giải pháp lưu trữ máy chủ trò chơi trực tuyến chất lượng cao với giá cả phải chăng.",
+    "en": "Asaka Cloud is proud to be Vietnam's top Minecraft server rental service, offering high-quality and affordable online game server hosting solutions."
+  },
+  "url": "id.asakacloud.vn",
+  "version": "1.0.0",
+  "logo": "https://cdn.imgchest.com/files/739cxmrv3w7.png",
+  "thumbnail": "https://cdn.imgchest.com/files/49zc2ol5pqy.png",
+  "color": "#2596BE",
+  "category": "other",
+  "tags": ["asakacloud", "asaka", "asakacloud"],
+  "iframe": false
+}
